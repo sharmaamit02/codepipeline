@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo yum install -y httpd 
+sudo service codedeploy-agent status
