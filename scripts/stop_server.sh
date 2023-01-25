@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo service stop httpd
+sudo systemctl stop httpd
