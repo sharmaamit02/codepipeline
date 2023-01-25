@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "installing dependencies"
+sudo yum install httpd -y
