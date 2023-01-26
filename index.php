@@ -1,1 +1,1 @@
-<?php echo 'Ritu mere wife h '; ?>
+<?php echo 'hi '; ?>
